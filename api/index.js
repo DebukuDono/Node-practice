@@ -19,4 +19,4 @@ app.listen(port,()=>{
     console.log("Sever is running on port",{port});
 });
 
-http://localhost:3001/getdata/http://localhost:3001/getdata/
+//http://localhost:3001/getdata/http://localhost:3001/getdata/
